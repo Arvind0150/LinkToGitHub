@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite2]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="com.qa.testLayer.TradingPageTest">
+        <methods>
+          <include name="buyShare"/>
+          <include name="tearDown"/>
+          <include name="start"/>
+          <include name="setUp"/>
+          <include name="stop"/>
+          <include name="buyShareAxis"/>
+        </methods>
+      </class> <!-- com.qa.testLayer.TradingPageTest -->
+      <class name="com.qa.testLayer.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="start"/>
+          <include name="setUp"/>
+          <include name="verifyLogin"/>
+          <include name="stop"/>
+        </methods>
+      </class> <!-- com.qa.testLayer.LoginPageTest -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite2] -->

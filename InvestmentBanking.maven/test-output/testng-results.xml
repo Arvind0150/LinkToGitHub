@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-13T17:33:47 IST" name="Default suite" finished-at="2023-01-13T17:34:05 IST" duration-ms="18147">
+    <groups>
+    </groups>
+    <test started-at="2023-01-13T17:33:47 IST" name="Default test" finished-at="2023-01-13T17:34:05 IST" duration-ms="18147">
+      <class name="com.qa.testLayer.FlipCartPageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.FlipCartPageTest@515aebb0]" started-at="2023-01-13T17:33:47 IST" name="start" finished-at="2023-01-13T17:33:48 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testLayer.FlipCartPageTest@515aebb0]" started-at="2023-01-13T17:33:48 IST" name="setUp" finished-at="2023-01-13T17:33:58 IST" duration-ms="10100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyFlipCart()[pri:0, instance:com.qa.testLayer.FlipCartPageTest@515aebb0]" started-at="2023-01-13T17:33:58 IST" name="verifyFlipCart" finished-at="2023-01-13T17:34:05 IST" duration-ms="7485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.FlipCartPageTest@515aebb0]" started-at="2023-01-13T17:34:05 IST" name="tearDown" finished-at="2023-01-13T17:34:05 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.FlipCartPageTest@515aebb0]" started-at="2023-01-13T17:34:05 IST" name="stop" finished-at="2023-01-13T17:34:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.FlipCartPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
