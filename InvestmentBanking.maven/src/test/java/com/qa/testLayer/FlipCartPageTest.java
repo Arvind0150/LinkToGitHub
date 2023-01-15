@@ -33,7 +33,11 @@ public class FlipCartPageTest extends TestBase {
 			
 			flip.clickOnBanner();
 			
+			Thread.sleep(1000);
+			
 			flip.moveToElectronics();
+			
+			Thread.sleep(1000);
 			
 			flip.moveToMobiles();
 
