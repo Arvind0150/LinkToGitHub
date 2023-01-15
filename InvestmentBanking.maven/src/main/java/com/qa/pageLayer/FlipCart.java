@@ -57,6 +57,19 @@ public class FlipCart extends TestBase {
 	
 	}	
 	
+	
+	@FindBy(xpath=("//a[@title='Mobiles']"))
+	private WebElement mobiles;
+	
+	public void moveToMobiles()
+	{
+		Actions act = new Actions(driver);
+		act.moveToElement(mobiles).perform();
+	
+	}	
+	
+	
+	
 }
 	
 

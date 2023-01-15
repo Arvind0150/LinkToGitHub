@@ -35,7 +35,7 @@ public class FlipCartPageTest extends TestBase {
 			
 			flip.moveToElectronics();
 			
-			
+			flip.moveToMobiles();
 
 			
 			
@@ -43,30 +43,20 @@ public class FlipCartPageTest extends TestBase {
 			Thread.sleep(1000);
 			
 			
-			Actions act = new Actions (driver);
-			
-			
-			
-			
-			
-			
-			
-			WebElement mobiles = driver.findElement(By.xpath("//a[@title='Mobiles']"));
-			act.moveToElement(mobiles).perform();
-			
-			
 			
 			 List<WebElement> menuItems = driver.findElements(By.xpath("(//div[@class='_1fwVde'])[1]//a[@class='_3QN6WI']"));
 			 
-			 System.out.println(menuItems.size());
+			// System.out.println(menuItems.size());
 			 int j = 0;
 			 for(int i =0; i<menuItems.size(); i++) 
 			 {
 				 j = i + 1;
-			System.out.println(j + "."+ menuItems.get(i).getText());
+			System.out.println(j + "."+ menuItems.get(i).getText());    
 			
 	        
 			 }
+			 
+			 
 		}
 }
 			 

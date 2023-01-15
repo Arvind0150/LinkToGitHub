@@ -143,7 +143,7 @@ public class TestBase<dashboard, tradingPage> {
 	@AfterMethod
 	public void tearDown()
 	{
-	driver.quit();
+	//driver.quit();
 		logger.info("Chrome closed");
 	}
 }
