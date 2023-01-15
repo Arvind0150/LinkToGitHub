@@ -58,7 +58,7 @@ public class FlipCartPageTest extends TestBase {
 			
 			 List<WebElement> menuItems = driver.findElements(By.xpath("(//div[@class='_1fwVde'])[1]//a[@class='_3QN6WI']"));
 			 
-			 System.out.println(menuItems.size());
+			// System.out.println(menuItems.size());
 			 int j = 0;
 			 for(int i =0; i<menuItems.size(); i++) 
 			 {
