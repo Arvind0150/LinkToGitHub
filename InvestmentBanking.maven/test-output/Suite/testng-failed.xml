@@ -7,16 +7,15 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.qa.testLayer.TradingPageTest">
+      <class name="com.qa.testLayer.FlipCartPageTest">
         <methods>
-          <include name="buyShare"/>
           <include name="tearDown"/>
           <include name="start"/>
           <include name="setUp"/>
+          <include name="verifyFlipCart"/>
           <include name="stop"/>
-          <include name="buyShareAxis"/>
         </methods>
-      </class> <!-- com.qa.testLayer.TradingPageTest -->
+      </class> <!-- com.qa.testLayer.FlipCartPageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

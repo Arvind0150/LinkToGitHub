@@ -627,3 +627,65 @@
 2023-01-13 17:33:55,083 - InvestmentBanking.maven -INFO - provided waits
 2023-01-13 17:34:05,919 - InvestmentBanking.maven -INFO - Chrome closed
 2023-01-13 17:34:05,920 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-14 11:01:03,311 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-14 11:01:11,352 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-14 11:01:11,360 - InvestmentBanking.maven -INFO - provided waits
+2023-01-14 11:01:14,467 - InvestmentBanking.maven -INFO - Test Case execution
+2023-01-14 11:01:20,750 - InvestmentBanking.maven -INFO - Test Case execution passed
+2023-01-14 11:01:21,159 - InvestmentBanking.maven -INFO - Chrome closed
+2023-01-14 11:01:21,160 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:05:22,305 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:05:41,699 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:05:41,709 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:05:44,816 - InvestmentBanking.maven -INFO - Test Case execution
+2023-01-15 11:05:50,480 - InvestmentBanking.maven -INFO - Test Case execution failed
+2023-01-15 11:05:50,854 - InvestmentBanking.maven -INFO - Chrome closed
+2023-01-15 11:05:50,857 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:07:04,660 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:07:14,188 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:07:14,199 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:07:17,260 - InvestmentBanking.maven -INFO - Test Case execution
+2023-01-15 11:07:22,830 - InvestmentBanking.maven -INFO - Test Case execution failed
+2023-01-15 11:07:23,101 - InvestmentBanking.maven -INFO - Chrome closed
+2023-01-15 11:07:23,102 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:09:11,775 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:09:22,371 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:09:22,379 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:09:30,869 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:13:09,109 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:13:17,536 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:13:17,543 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:13:20,598 - InvestmentBanking.maven -INFO - Test Case execution
+2023-01-15 11:13:26,279 - InvestmentBanking.maven -INFO - Test Case execution failed
+2023-01-15 11:13:26,282 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:16:24,007 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:16:32,190 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:16:32,198 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:17:09,762 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:17:14,137 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:17:19,479 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:17:19,491 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:17:35,725 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:18:26,450 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:18:36,051 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:18:36,071 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:19:08,142 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:19:56,334 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:20:07,804 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:20:07,832 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:20:18,492 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:21:43,208 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:21:54,263 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:21:54,277 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:22:04,638 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:29:29,666 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:29:43,272 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:29:43,291 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:29:55,297 - InvestmentBanking.maven -INFO - Framework exection Stopped
+2023-01-15 11:31:18,158 - InvestmentBanking.maven -INFO - Framework execution started
+2023-01-15 11:31:31,698 - InvestmentBanking.maven -INFO - maximized browser
+2023-01-15 11:31:31,717 - InvestmentBanking.maven -INFO - provided waits
+2023-01-15 11:31:34,804 - InvestmentBanking.maven -INFO - Test Case execution
+2023-01-15 11:31:42,345 - InvestmentBanking.maven -INFO - Test Case execution passed
+2023-01-15 11:31:44,081 - InvestmentBanking.maven -INFO - Chrome closed
+2023-01-15 11:31:44,085 - InvestmentBanking.maven -INFO - Framework exection Stopped

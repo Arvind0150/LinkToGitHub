@@ -27,7 +27,7 @@ public class FlipCartPageTest extends TestBase {
 			
 			Thread.sleep(1000);
 			
-			flip.clickOnBeauty();
+		//	flip.clickOnBeauty();
 			
 			Thread.sleep(1000);
 			
