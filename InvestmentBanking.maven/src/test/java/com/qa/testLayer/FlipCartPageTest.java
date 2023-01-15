@@ -35,24 +35,14 @@ public class FlipCartPageTest extends TestBase {
 			
 			flip.moveToElectronics();
 			
+			flip.moveToMobiles();
+			
 			
 
 			
 			
 			
 			Thread.sleep(1000);
-			
-			
-			Actions act = new Actions (driver);
-			
-			
-			
-			
-			
-			
-			
-			WebElement mobiles = driver.findElement(By.xpath("//a[@title='Mobiles']"));
-			act.moveToElement(mobiles).perform();
 			
 			
 			
