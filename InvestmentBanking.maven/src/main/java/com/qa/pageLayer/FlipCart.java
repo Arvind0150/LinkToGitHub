@@ -27,17 +27,8 @@ public class FlipCart extends TestBase {
 		close.click();
 	}
 	
-	/*@FindBy(xpath=("(//div[@class=\"xtXmba\"])[9]"))
-	private WebElement beauty;
 	
-	public void clickOnBeauty()
-	{
-		
-		
 	
-		beauty.click();
-
-	}*/
 	
 @FindBy(xpath=("//div[@class=\"_6t1WkM _3HqJxg\"]"))
 	private WebElement banner;
