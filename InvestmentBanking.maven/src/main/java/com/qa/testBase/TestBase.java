@@ -19,12 +19,12 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
-import com.qa.pageLayer.Dashboard;
-import com.qa.pageLayer.DashboardForSell;
+//import com.qa.pageLayer.Dashboard;
+//import com.qa.pageLayer.DashboardForSell;
 import com.qa.pageLayer.FlipCart;
-import com.qa.pageLayer.LoginPage;
-import com.qa.pageLayer.TradingPage;
-import com.qa.pageLayer.TradingPageForSell;
+//import com.qa.pageLayer.LoginPage;
+//import com.qa.pageLayer.TradingPage;
+//import com.qa.pageLayer.TradingPageForSell;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
